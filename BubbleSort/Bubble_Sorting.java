@@ -5,7 +5,7 @@ public class Bubble_Sorting{
 
 
     public static void main(String[] args) {
-        int arr[] = { 1, 4, 3, 3, 2 };
+        int arr[] = { 2,4,2,5,3};
         int n = arr.length;
 
         solJava(arr, n);
@@ -28,5 +28,6 @@ public class Bubble_Sorting{
         }
     }
 
-
+// Time Complexity -0(n2)
+//   Stable Algorithm...
 }
