@@ -68,3 +68,5 @@ static  void mergeSortFunction(int arr[], int low, int mid, int high) {
   }
 
 }
+// Time Complexity Theta(nlogn).
+// Stable Algorithm..
