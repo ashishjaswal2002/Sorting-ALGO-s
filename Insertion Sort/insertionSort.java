@@ -4,7 +4,7 @@ public class insertionSort {
 
     public static void main(String[] args) {
         
-        int arr[] ={20,4,30,50,5,60};
+        int arr[] ={34,23,22,12,44};
         int n = arr.length;
         solution(arr, n);
 
