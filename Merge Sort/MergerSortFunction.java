@@ -1,4 +1,4 @@
-public class MergerSortFunction {
+public class MergerSortFunction {//👈Your File name and class Name should be same
 
   public static void main(String[] args) {
     int arr[] = { 10,3 ,3,1,2,1 };

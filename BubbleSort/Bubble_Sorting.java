@@ -1,7 +1,7 @@
 package BubbleSort;
 
 
-public class Bubble_Sorting{
+public class Bubble_Sorting{//👈Your File name and class Name should be same
 
 
     public static void main(String[] args) {

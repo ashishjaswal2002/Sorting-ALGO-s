@@ -1,6 +1,6 @@
 
 
-public class Selection_sort {
+public class Selection_sort {//👈Your File name and class Name should be same
     public static void main(String[] args) {
         int arr[] = {3,2,1,0};
         int n = arr.length;

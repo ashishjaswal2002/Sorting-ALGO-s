@@ -1,6 +1,6 @@
 
 
-public class insertionSort {
+public class insertionSort {//👈Your File name and class Name should be same
 
     public static void main(String[] args) {
         
