@@ -1,4 +1,4 @@
-Here in this Repo u can access all sorting Algorithms.
+Here in this repo you can access all the sorting algorithms.
 Access algo's both in c++ and  java
 
 
