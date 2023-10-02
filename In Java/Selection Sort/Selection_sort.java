@@ -30,7 +30,8 @@ public class Selection_sort {//👈Your File name and class Name should be same
     }
 
    }
-   //Time Complexity is
+   //Time Complexity is O(n^2)
+   //Selection sort is a relatively simple algorithm to understand and implement. However, it is not very efficient for sorting large lists. There are other sorting algorithms, such as quicksort and merge sort, that have a better time complexity and are therefore more efficient for sorting large lists.
        
 
 
